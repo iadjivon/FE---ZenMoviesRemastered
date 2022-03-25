@@ -20,6 +20,7 @@ import './App.css';
 import Movie_component from './pages/movie_component';
 import User_reviews from './pages/user_reviews';
 import starRating from "./components/starRating"
+// const tracer = require('dd-trace').init()
 
 export const GlobalCtx = React.createContext(null)
 
